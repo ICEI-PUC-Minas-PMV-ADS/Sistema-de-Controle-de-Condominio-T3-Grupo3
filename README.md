@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Sistema de Controle de Condomínio
 
-`CURSO`
+`Tecnologia em Análise e Desenv. de Sistemas - EAD`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Uma Aplicação Interativa`
 
-`SEMESTRE`
+`2º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Trata-se de projeto de solução para administração de condomínios.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Jonathan Costa
+* Nayara de Araujo
+* Renato Freitas 
+* Rener Salvioli
+* Talita Pereira
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson Da Costa
 
 ## Instruções de utilização
 
